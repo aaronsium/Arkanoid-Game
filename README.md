@@ -1,5 +1,6 @@
 # Arkanoid-Game
-An simple implementaion of the popular game
+An simple implementaion of the popular game.
+In this project i used biuoop-1.4 library.
 
 
 ![game4](https://user-images.githubusercontent.com/59335973/88106867-da927200-cbae-11ea-8796-6c18fbc3904f.png)
